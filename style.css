@@ -1,0 +1,59 @@
+body{
+background-color:rgb(30, 29, 29);
+}
+h2{
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.address{
+    margin-top: -15px;
+    color: white;
+    text-align: center;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: large;
+}
+.contact{
+    color: white;
+    text-align: center;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: large;
+}
+.picture{
+    margin-top: -70px;
+}
+.date{
+    color: white;
+    margin-top: 10px;
+    font-size: large;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: bold;
+}
+ul{
+    list-style: none;
+    color: white;
+    padding-left: 5px;
+    margin-top: -10px;
+    font-size: large;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.notice{
+    color: white;
+    font-size: large;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: bold;
+}
+.message{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.greetings{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
